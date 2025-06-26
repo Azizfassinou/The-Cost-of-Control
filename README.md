@@ -51,7 +51,7 @@ Créer une **expérience courte, percutante et immersive** illustrant le coût d
 
 - **Nom du Projet :** Le Prix du Contrôle
 - **Équipe :** Hackathon E1
-- **Participants :** [Ajoutez vos noms ici]
+- **Participants : Membres de mon groupe
 
 ---
 
